@@ -1,0 +1,223 @@
+/* html, body,
+{
+  margin: none;
+} */
+
+
+ul#menu li
+{
+  display: inline-block;
+}
+
+
+
+/*
+----------------------------
+Implementing Navigation Menu
+----------------------------
+*/
+#nav
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+#nav li
+{
+  float: left;
+}
+
+
+#nav li a
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding:20px;
+  text-decoration: none;
+}
+
+#nav li:hover
+{
+  /* background-color: #1111; */
+  background-color: lightblue;
+}
+/* --------------------------------------------
+Implementation of Navigation Menu ends here.
+-------------------------------------------- */
+
+
+div
+{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: none;
+}
+
+.city
+{
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
+
+hr
+{
+  margin: 0;
+  height: 1px;
+  background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* mv cxmc */
